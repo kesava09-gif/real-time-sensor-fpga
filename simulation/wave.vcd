@@ -1,9 +1,8 @@
-
 $date
-   Today
+  Today
 $end
 $version
-   FPGA Simulation Waveform
+  FPGA Real-Time Sensor Simulation
 $end
 $timescale 1ns $end
 $scope module top $end
@@ -23,3 +22,8 @@ $enddefinitions $end
 1"
 0#
 0$
+#20
+0!
+0"
+1#
+1$
